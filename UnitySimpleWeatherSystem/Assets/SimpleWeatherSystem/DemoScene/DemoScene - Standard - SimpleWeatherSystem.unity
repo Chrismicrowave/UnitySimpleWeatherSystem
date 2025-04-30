@@ -272,6 +272,8 @@ MonoBehaviour:
   trailLength: 0.5
   mat: {fileID: 2100000, guid: 865368e3a3e334746a44bebf303094c9, type: 2}
   matTrail: {fileID: 2100000, guid: 865368e3a3e334746a44bebf303094c9, type: 2}
+  TrailSize: 0.5
+  BoundSize: {x: 100, y: 20, z: 0}
 --- !u!198 &269672172
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -911,7 +913,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 100, y: 20, z: 100}
+    m_Scale: {x: 100, y: 20, z: 0}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -5527,6 +5529,7 @@ MonoBehaviour:
   dropletEmissionAmount: 100
   speed: 20
   maxParticleAmount: 20000
+  BoundSize: {x: 100, y: 100, z: 1}
   useWindSystemDirection: 1
   directionSpeed: {x: 0, y: 0, z: 0}
   windSys: {fileID: 269672171}
@@ -10716,6 +10719,7 @@ MonoBehaviour:
   dropletEmissionAmount: 2000
   speed: 1
   maxParticleAmount: 20000
+  BoundSize: {x: 100, y: 100, z: 1}
   useWindSystemDirection: 0
   directionSpeed: {x: 0, y: 0, z: 0}
   windSys: {fileID: 269672171}
@@ -15761,7 +15765,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2047854978511723572, guid: 8fd19d45aabc18f4082849d44adeb60c, type: 3}
       propertyPath: m_Name
-      value: WeatherSystem
+      value: SimpleWeatherSystem
       objectReference: {fileID: 0}
     - target: {fileID: 5012505843233453828, guid: 8fd19d45aabc18f4082849d44adeb60c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16818,6 +16822,7 @@ MonoBehaviour:
   dropletEmissionAmount: 150
   speed: 50
   maxParticleAmount: 20000
+  BoundSize: {x: 100, y: 100, z: 1}
   useWindSystemDirection: 1
   directionSpeed: {x: 0, y: 0, z: 0}
   windSys: {fileID: 269672171}

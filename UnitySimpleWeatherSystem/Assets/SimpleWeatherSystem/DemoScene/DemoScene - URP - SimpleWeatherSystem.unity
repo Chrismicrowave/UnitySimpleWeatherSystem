@@ -15765,7 +15765,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2047854978511723572, guid: 8fd19d45aabc18f4082849d44adeb60c, type: 3}
       propertyPath: m_Name
-      value: WeatherSystem
+      value: SimpleWeatherSystem
       objectReference: {fileID: 0}
     - target: {fileID: 5012505843233453828, guid: 8fd19d45aabc18f4082849d44adeb60c, type: 3}
       propertyPath: m_LocalPosition.x

@@ -3,6 +3,7 @@
 using UnityEditor;
 using UnityEngine;
 
+//Script for particle system to be played when user select the gameobject of the ParticleWeatherBase
 [InitializeOnLoad]
 public static class WeatherEffectEditorUpdate
 {

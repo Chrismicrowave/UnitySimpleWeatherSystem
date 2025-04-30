@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 853852945667278473}
   - component: {fileID: 6242797649336391013}
   m_Layer: 0
-  m_Name: WeatherSystem
+  m_Name: SimpleWeatherSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
