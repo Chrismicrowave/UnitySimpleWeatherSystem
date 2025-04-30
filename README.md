@@ -1,9 +1,9 @@
 # Unity Simple Weather System
-(Unity tool assignment project for RMIT Game Design BA GDS3 by Chris Cao)
+Unity tool assignment project for RMIT Game Design BA GDS3 by Chris Cao
 
 -------------------------
 
-About this tool:
+## About this tool:
 
 This is a simple weather system tool using Unity's particle system and timeline. It allows user to quickly set up 4 different weathers from rain, hail, snow and wind. 
 
@@ -14,17 +14,17 @@ Advance users could untick the override particle system and go into the particle
 
 -------------------------
 
-Quick Setup:
+## Quick Setup:
 
 
 -------------------------
 
-Manual:
+## Manual:
 
 
 -------------------------
 
-FAQ:
+## FAQ:
 
 - Why is my rain/hail/snow's direction is not override by the wind after I click 'Use Wind System Direction' ?
 
