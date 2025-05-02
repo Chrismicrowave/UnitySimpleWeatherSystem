@@ -260,7 +260,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   par: {fileID: 269672172}
   startPlayingInEditor: 0
-  isManuallySelectedInEditor: 1
+  isManuallySelectedInEditor: 0
   usingTimeline: 1
   playParticleOnStart: 0
   playingIndefinitelyInGame: 0
@@ -5516,7 +5516,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   par: {fileID: 892404073}
   startPlayingInEditor: 0
-  isManuallySelectedInEditor: 1
+  isManuallySelectedInEditor: 0
   usingTimeline: 1
   playParticleOnStart: 0
   playingIndefinitelyInGame: 0
@@ -10706,7 +10706,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   par: {fileID: 1290420703}
   startPlayingInEditor: 0
-  isManuallySelectedInEditor: 1
+  isManuallySelectedInEditor: 0
   usingTimeline: 1
   playParticleOnStart: 0
   playingIndefinitelyInGame: 1
@@ -15808,6 +15808,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6242797649336391013, guid: 8fd19d45aabc18f4082849d44adeb60c, type: 3}
+      propertyPath: m_PlayableAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 61b0480e0222e4b4a8840fd5a7c99ba6, type: 2}
+    - target: {fileID: 6242797649336391013, guid: 8fd19d45aabc18f4082849d44adeb60c, type: 3}
       propertyPath: m_SceneBindings.Array.size
       value: 4
       objectReference: {fileID: 0}
@@ -16809,7 +16813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   par: {fileID: 1965411806}
   startPlayingInEditor: 0
-  isManuallySelectedInEditor: 1
+  isManuallySelectedInEditor: 0
   usingTimeline: 1
   playParticleOnStart: 0
   playingIndefinitelyInGame: 0
