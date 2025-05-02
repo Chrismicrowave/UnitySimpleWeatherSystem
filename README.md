@@ -28,20 +28,22 @@ Advance users could untick the override particle system and go into the particle
 
 - Why the droplet of the rain/ snow/ hail not hitting the ground of my secene?
 
-You can adjust the 'Droplet Life' parameter in the inspector window and make sure the droplets last till they hit the ground.
+  You can adjust the 'Droplet Life' parameter in the inspector window and make sure the droplets last till they hit the ground.
+
 
 
 - Why is my rain/hail/snow's direction is not override by the wind after I click 'Use Wind System Direction' ?
 
-Make sure there is a wind weather game object in the scene by clicking 'Create Wind Game Object' in the 'SimpleWeatherSystem' game object. Move and rotate the wind game object to the desired location and direction, untick and tick again to reload the wind direction.
+  Make sure there is a wind weather game object in the scene by clicking 'Create Wind Game Object' in the 'SimpleWeatherSystem' game object. Move and rotate the wind game object to the desired location and direction, untick and tick again to reload the wind direction.
+
 
 
 - How do I have the clip keep playing throughout the game?
 
-Click the 'Play Indefinitely In Game' on the weather class script component in Inspector window.
+  Click the 'Play Indefinitely In Game' on the weather class script component in Inspector window.
 
 
 
 - How do I have a few different animation sequences?
 
-You have to create another timeline asset by right click in the project folder window, and go to 'Create > Timeline > Timeline'. And replace the 'Playable' in the 'Playable Director' component in the 'SimpleWeahterSystem' game object.
+  You have to create another timeline asset by right click in the project folder window, and go to 'Create > Timeline > Timeline'. And replace the 'Playable' in the 'Playable Director' component in the 'SimpleWeahterSystem' game object.
