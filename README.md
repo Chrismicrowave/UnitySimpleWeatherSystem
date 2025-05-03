@@ -1,5 +1,6 @@
 # Unity Simple Weather System
 Unity tool assignment project - RMIT Game Design BA GDS3 - Chris Cao
+CC0
 
 -------------------------
 
