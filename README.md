@@ -53,7 +53,10 @@ Advance users could untick the override particle system and go into the particle
 
 <details>
 
+### Rain Hail Snow Weather Class
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/Manual%201.jpg)
+
+### Wind System Class
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/Manual%202.jpg)
 
 </details>
