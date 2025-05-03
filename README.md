@@ -92,7 +92,7 @@ Advance users could untick the override particle system and go into the particle
   You have to create another timeline asset by right click in the project folder window, and go to 'Create > Timeline > Timeline'. And replace the 'Playable' in the 'Playable Director' component in the 'SimpleWeahterSystem' game object.
 
 
-- How to create track and clip if for a new custom weather class?
+- How to create track and clip for a new custom weather class?
 
   This may or may not work for custom class in this simple system, to create track and clip in the timeline, you will have to create three classes "track asset, playable behaviour, playable asset", you could copy and modify from exsiting scripts in the script folder, and here are the simple explaination of the code:
 
