@@ -92,9 +92,17 @@ Advance users could untick the override particle system and go into the particle
   You have to create another timeline asset by right click in the project folder window, and go to 'Create > Timeline > Timeline'. And replace the 'Playable' in the 'Playable Director' component in the 'SimpleWeahterSystem' game object.
 
 
+
+- Can I drag and drop the weather prefab directly from the project folder?
+
+  Yes but not recommended, there could be naming descripency for the weathers causing wind weather direction referecing not working properly or other bugs.
+
+
+
+
 - How to create track and clip for a new custom weather class?
 
-  This may or may not work for custom class in this simple system, to create track and clip in the timeline, you will have to create three classes "track asset, playable behaviour, playable asset", you could copy and modify from exsiting scripts in the script folder, and here are the simple explaination of the code:
+  This may or may not work for custom class in this simple system, but to create new track and clip in the timeline, you will have to create three classes "track asset, playable behaviour, playable asset", you could copy and modify from exsiting scripts in the script folder for example "WindTrack, WindSystemClipBehaviour, WindSystemClip", and here are the simple explaination of the code:
 
   ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/AddNewWeatherToTimeline1.jpg)
   ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/AddNewWeatherToTimeline2.jpg)
