@@ -66,6 +66,8 @@ Advance users could untick the override particle system and go into the particle
 
 ## FAQ
 
+<details>
+
 - Why the droplet of the rain/ snow/ hail not hitting the ground of my secene?
 
   You can adjust the 'Droplet Life' parameter in the inspector window and make sure the droplets last till they hit the ground.
@@ -87,3 +89,5 @@ Advance users could untick the override particle system and go into the particle
 - How do I have a few different animation sequences?
 
   You have to create another timeline asset by right click in the project folder window, and go to 'Create > Timeline > Timeline'. And replace the 'Playable' in the 'Playable Director' component in the 'SimpleWeahterSystem' game object.
+
+</details>
