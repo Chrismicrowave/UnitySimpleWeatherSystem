@@ -19,30 +19,30 @@ Advance users could untick the override particle system and go into the particle
   
 ### Importing Tool
 
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(1).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(2).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(3).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(1).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(2).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(3).jpg)
 
 ### Creating Weather
 
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(4).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(5).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(6).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(7).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(8).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(9).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(4).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(5).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(6).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(7).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(8).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(9).jpg)
 
 ### Using Timeline
 
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(10).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(11).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(12).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(13).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(14).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(15).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(16).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(17).jpg)
-![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(18).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(10).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(11).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(12).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(13).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(14).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(15).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(16).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(17).jpg)
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart%20(18).jpg)
 
 </details>
 
@@ -51,10 +51,22 @@ Advance users could untick the override particle system and go into the particle
 
 ## Manual
 
+<details>
+
+### Rain Hail Snow Weather Class
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/Manual%201.jpg)
+
+### Wind System Class
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/Manual%202.jpg)
+
+</details>
+
 
 -------------------------
 
 ## FAQ
+
+<details>
 
 - Why the droplet of the rain/ snow/ hail not hitting the ground of my secene?
 
@@ -77,3 +89,5 @@ Advance users could untick the override particle system and go into the particle
 - How do I have a few different animation sequences?
 
   You have to create another timeline asset by right click in the project folder window, and go to 'Create > Timeline > Timeline'. And replace the 'Playable' in the 'Playable Director' component in the 'SimpleWeahterSystem' game object.
+
+</details>
