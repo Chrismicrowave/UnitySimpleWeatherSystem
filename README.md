@@ -16,18 +16,23 @@ Advance users could untick the override particle system and go into the particle
 
 ## Quick Setup
 
-### Import Tool
+### Importing Tool
+<details>
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(1).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(2).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(3).jpg)
+</details>
 ### Creating Weather
+<details>
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(4).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(5).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(6).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(7).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(8).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(9).jpg)
+</details>
 ### Using Timeline
+<details>
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(10).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(11).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(12).jpg)
@@ -37,6 +42,7 @@ Advance users could untick the override particle system and go into the particle
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(16).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(17).jpg)
 ![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/QuickStart/QuickStart%20(18).jpg)
+</details>
 
 
 -------------------------
