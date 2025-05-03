@@ -5,7 +5,7 @@ using UnityEngine.Playables;
 [Serializable]
 public class WindSystemClipBehaviour : PlayableBehaviour
 {
-
+    #region var
     private bool firstFrameHappened = false;
 
     [HideInInspector]
@@ -16,6 +16,7 @@ public class WindSystemClipBehaviour : PlayableBehaviour
     private bool keepPlaying;
     private bool clearOnStop;
     private bool usingTimeline;
+    #endregion
 
     public override void ProcessFrame(Playable playable, FrameData info, object playerData)
     {
