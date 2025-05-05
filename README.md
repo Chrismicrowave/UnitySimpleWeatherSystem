@@ -12,6 +12,7 @@ The weathers could be created and played in the scene directly, or using the tim
 
 Advance users could untick the override particle system and go into the particle system directly to tweak the settings. Rain/hail/snow direction could be override by wind weather or to be set individually. 
 
+![](https://github.com/Chrismicrowave/UnitySimpleWeatherSystem/blob/main/Readme%20Images/demo.gif)
 
 -------------------------
 
